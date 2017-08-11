@@ -1,0 +1,60 @@
+
+.logo{
+	/*padding-top: 50px;*/
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+#coded-line{
+    font-style: italic;
+    font-size: 300%;  
+    font-family: Comic Sans MS;   
+}
+
+.inner{
+	height: 280px;
+	background-color: black;
+}
+
+.rightSide{
+	padding-left : 1000px; 
+}
+
+.contactDiv{
+	padding-top: 30px;
+	padding-left: 30px;
+	color: white;
+	font-size: 20px;
+}
+
+#contactHead{
+	font-size: 15px;
+}
+
+#email-no{
+	font-style: italic;
+	font-size: 15px;
+}
+
+#contactHead:hover{
+     color: gray;
+}
+
+#email-no:hover{
+	 color: gray; 
+}
+
+/*
+.FbDiv{
+	padding-left : 1000px; 
+}
+*/
+
+#p{
+	font-size: 13px;
+	color: gray;
+}
+

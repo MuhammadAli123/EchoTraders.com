@@ -1,0 +1,50 @@
+/*
+.logo{
+	padding-top: 50px;
+}
+  */
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+b { 
+    font-weight: bold;
+}
+/*
+#linetwo{
+	padding-bottom: 100px;
+    padding-right: 10px;
+}*/
+/*
+.listtwo {
+	
+	padding-bottom: 100px;
+    padding-left: 240px; 
+   /* margin: 200px auto; 
+	
+}*/
+/*
+.ourProductList{
+	background-color: pink;
+	width:240px;
+	
+	/*display: inline;*/
+}
+*/
+/*
+.listtwo {
+	
+    position: absolute;
+	padding-bottom: 100px;
+    padding-left: 242px; 
+	
+   /* margin: 200px auto;
+	
+}*/
+/*
+#linetwo{
+	height: 1000px;
+	width: 1000px;
+}
+*/
